@@ -1,0 +1,2 @@
+# Recipe_REST_API
+Build a BACKEND RECIPE REST API using PYTHON, DJANGO framework and DOCKER
