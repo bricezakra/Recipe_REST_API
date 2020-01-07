@@ -1,0 +1,17 @@
+﻿
+NOTES
+
+
+
+01 - AUTOPEP8 install for Python Best Practice Guidelines:
+
+
+$ pip install autopep8
+
+$ autopep8 -i url.py
+
+
+
+02 - ...
+
+
