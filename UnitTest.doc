@@ -1,0 +1,5 @@
+﻿
+Command Line to Run UNIT TEST:
+
+
+docker-compose run app sh -c "python manage.py test"
